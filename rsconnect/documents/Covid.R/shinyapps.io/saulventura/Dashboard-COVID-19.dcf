@@ -1,0 +1,12 @@
+name: Dashboard-COVID-19
+title: Dashboard-COVID-19
+username:
+account: saulventura
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2281586
+bundleId: 3143984
+url: https://saulventura.shinyapps.io/Dashboard-COVID-19/
+when: 1589407183.86249
+asMultiple: FALSE
+asStatic: FALSE
