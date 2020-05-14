@@ -154,6 +154,32 @@ body <- dashboardBody(
             
     ),
     
+    tabItem("forecast", 
+            
+            
+            fluidRow( 
+              
+              tabBox( title = tagList(shiny::icon("project-diagram")),width = 12,
+                     
+                     tabPanel( strong("Data Collection"),   icon = icon("database")
+                      ), # tabpanel close                          
+                     tabPanel( strong("Model Training"),   icon = icon("chalkboard-teacher")
+                     ), # tabpanel close 
+                     tabPanel( strong("Model Evaluation"),   icon = icon("eye")
+                     ), # tabpanel close 
+                     tabPanel( strong("Forecasting"),   icon = icon("chart-area")
+                     ) # tabpanel close 
+                     
+                      
+              ) # tabbox close
+            ) #fluidrow close
+                                
+                                
+                                
+    ),
+            
+            
+    
     tabItem("about",
             tags$div(
               tags$h4("Data Science Hackathon"), 
