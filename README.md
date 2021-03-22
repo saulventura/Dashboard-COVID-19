@@ -5,4 +5,4 @@ Dashboard developed using Shiny/R
 This dashboard was built as part of the UCLA Extension Data Science Hackathon.
 The data used was obtained from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 
-![Demo](https://github.com/saulventura/Dashboard-COVID-19/blob/master/demo.gif)
+[Demo](https://github.com/saulventura/Dashboard-COVID-19/blob/master/demo.gif)
